@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-execs-jq/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-execs-jq
 
 `jq` runtime executor for [plurnk-service](https://github.com/plurnk/plurnk-service)'s `exec` scheme. Drives `EXEC[jq]` by shelling the system `jq` binary to filter/transform JSON — no third-party JSON-filter library.
